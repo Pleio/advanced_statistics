@@ -1,5 +1,5 @@
 {
-    "name": "advanced_statistics",
+    "name": "coldtrick/advanced_statistics",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
